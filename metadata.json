@@ -1,0 +1,7 @@
+{
+  "name": "Real-time AI Translator",
+  "description": "A real-time translation and interpretation app using Web Speech API and Gemini 3.0 Flash.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
